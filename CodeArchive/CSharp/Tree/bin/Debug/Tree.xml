@@ -1,0 +1,55 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:TreeNode id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Windows.Forms/System.Windows.Forms%2C%20Version%3D1.0.3300.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<Text xsi:type="xsd:anyType" xsi:null="1"/>
+<IsChecked>false</IsChecked>
+<ImageIndex>-1</ImageIndex>
+<SelectedImageIndex>-1</SelectedImageIndex>
+<children href="#ref-3"/>
+</a1:TreeNode>
+<SOAP-ENC:Array id="ref-3" SOAP-ENC:arrayType="a1:TreeNode[4]" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Windows.Forms/System.Windows.Forms%2C%20Version%3D1.0.3300.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<item href="#ref-4"/>
+</SOAP-ENC:Array>
+<a1:TreeNode id="ref-4" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Windows.Forms/System.Windows.Forms%2C%20Version%3D1.0.3300.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<Text id="ref-5">[New Node]</Text>
+<IsChecked>false</IsChecked>
+<ImageIndex>-1</ImageIndex>
+<SelectedImageIndex>-1</SelectedImageIndex>
+<children href="#ref-6"/>
+</a1:TreeNode>
+<SOAP-ENC:Array id="ref-6" SOAP-ENC:arrayType="a1:TreeNode[4]" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Windows.Forms/System.Windows.Forms%2C%20Version%3D1.0.3300.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<item href="#ref-7"/>
+<item href="#ref-8"/>
+<item href="#ref-9"/>
+<item href="#ref-10"/>
+</SOAP-ENC:Array>
+<a1:TreeNode id="ref-7" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Windows.Forms/System.Windows.Forms%2C%20Version%3D1.0.3300.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<Text href="#ref-5"/>
+<IsChecked>false</IsChecked>
+<ImageIndex>-1</ImageIndex>
+<SelectedImageIndex>-1</SelectedImageIndex>
+<children xsi:null="1"/>
+</a1:TreeNode>
+<a1:TreeNode id="ref-8" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Windows.Forms/System.Windows.Forms%2C%20Version%3D1.0.3300.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<Text href="#ref-5"/>
+<IsChecked>false</IsChecked>
+<ImageIndex>-1</ImageIndex>
+<SelectedImageIndex>-1</SelectedImageIndex>
+<children xsi:null="1"/>
+</a1:TreeNode>
+<a1:TreeNode id="ref-9" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Windows.Forms/System.Windows.Forms%2C%20Version%3D1.0.3300.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<Text href="#ref-5"/>
+<IsChecked>false</IsChecked>
+<ImageIndex>-1</ImageIndex>
+<SelectedImageIndex>-1</SelectedImageIndex>
+<children xsi:null="1"/>
+</a1:TreeNode>
+<a1:TreeNode id="ref-10" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Windows.Forms/System.Windows.Forms%2C%20Version%3D1.0.3300.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<Text href="#ref-5"/>
+<IsChecked>false</IsChecked>
+<ImageIndex>-1</ImageIndex>
+<SelectedImageIndex>-1</SelectedImageIndex>
+<children xsi:null="1"/>
+</a1:TreeNode>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
